@@ -1,0 +1,7 @@
+Z:\13.osztály\Czapp\Login\Login\bin\Debug\Login.exe.config
+Z:\13.osztály\Czapp\Login\Login\bin\Debug\Login.exe
+Z:\13.osztály\Czapp\Login\Login\bin\Debug\Login.pdb
+Z:\13.osztály\Czapp\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+Z:\13.osztály\Czapp\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+Z:\13.osztály\Czapp\Login\Login\obj\Debug\Login.exe
+Z:\13.osztály\Czapp\Login\Login\obj\Debug\Login.pdb
